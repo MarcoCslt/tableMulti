@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        for ($i=1; $i < 4; $i++) { 
+        for ($i=1; $i < 11; $i++) { 
             echo "<a href='table.php?number=".$i."'> Table de ".$i." </a><br>";
         }
     ?>
